@@ -1,0 +1,12 @@
+name = "kolmipilot's Less lethal ammo";
+picture = "icon.paa";
+logo = "icon_main.paa";
+logoOver = "icon_over.paa";
+tooltip = "kolmipilot's Less lethal ammo";
+tooltipOwned = "kolmipilot's Less lethal ammo";
+author = "kolmipilot";
+dlcColor[] = {0.996078431372549, 0.7294117647058824, 0.1529411764705882, 1};	
+action = "";
+overview = "Adds a new shotgun, new 12 Gauge less lethal ammo. This is only a rebuild of an orginal @COXHOUND Ordnance and Ammo";
+hideName = 0;
+hidePicture = 0;
